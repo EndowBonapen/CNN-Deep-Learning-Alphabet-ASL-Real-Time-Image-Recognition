@@ -7,6 +7,8 @@ SIBI (Sistem Isyarat Bahasa Indonesia) merupakan salah satu metode alternatif da
 ##Parameter Training
 ![image](https://user-images.githubusercontent.com/108866174/215393156-7b66fb11-b69d-4232-b7e0-73ee929ab584.png)
 
+
 ##Modelling Plot
+
 ![image](https://user-images.githubusercontent.com/108866174/215393430-ec1ac23c-6c7e-4283-a223-f8ccd6eadda0.png)
 
